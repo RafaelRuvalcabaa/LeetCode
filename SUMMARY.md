@@ -1,6 +1,6 @@
 # Resumen — Todos los Ejercicios Resueltos
 
-**Total: 52 ejercicios** (completados hasta Batch 01)
+**Total: 51 ejercicios** (completados hasta Batch 01)
 
 ---
 
@@ -40,12 +40,6 @@ Missing from folders: MoveZeroes.py (283)
 | 344 | Reverse String | reverse_string.py |
 | 977 | Squares of a Sorted Array | square_of_sorted_array.py |
 | 11 | Container With Most Water | ContainerWithMostWater.py |
-
-## Sliding Window — 1
-
-| LeetCode | Problema | Archivo |
-|----------|----------|---------|
-| 643 | Maximum Average Subarray I | Sliding Window/MaximumAverageSubarrayI.py |
 
 ## Binary Search — 4
 
@@ -105,7 +99,7 @@ Missing from folders: MoveZeroes.py (283)
 | 03 — SQL | — | Pendiente |
 | 04 — AWS Cloud | — | Pendiente |
 | 05 — LeetCode 11-20 | 51→61 | Pendiente |
-| 06 — LeetCode 21-30 | 61→71 | En progreso |
+| 06 — LeetCode 21-30 | 61→71 | Pendiente |
 | 07 — LeetCode 31-40 | 71→81 | Pendiente |
 | 08 — LeetCode 41-50 | 81→91 | Pendiente |
 | 09 — LeetCode 51-60 | 91→101 | Pendiente |
